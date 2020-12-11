@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import classes from './List.module.css';
+import './List.css';
 
 class List extends Component {
     state = {
@@ -33,7 +33,7 @@ class List extends Component {
 
         return (
             <div>
-                <button className={classes.Button} onClick={this.addItemHandler}>Add Item</button>
+                <button className="Button" onClick={this.addItemHandler}>Add Item</button>
                 <p>Click Item to Remove.</p>
                 <ul className="List">
                     {listItems}
