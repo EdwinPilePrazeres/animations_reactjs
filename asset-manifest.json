@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/animations_reactjs/static/css/main.1c5654fd.chunk.css",
-    "main.js": "/animations_reactjs/static/js/main.4999778c.chunk.js",
-    "main.js.map": "/animations_reactjs/static/js/main.4999778c.chunk.js.map",
+    "main.css": "/animations_reactjs/static/css/main.a0e5985d.chunk.css",
+    "main.js": "/animations_reactjs/static/js/main.ac2eefa5.chunk.js",
+    "main.js.map": "/animations_reactjs/static/js/main.ac2eefa5.chunk.js.map",
     "runtime-main.js": "/animations_reactjs/static/js/runtime-main.df104120.js",
     "runtime-main.js.map": "/animations_reactjs/static/js/runtime-main.df104120.js.map",
-    "static/js/2.352dd175.chunk.js": "/animations_reactjs/static/js/2.352dd175.chunk.js",
-    "static/js/2.352dd175.chunk.js.map": "/animations_reactjs/static/js/2.352dd175.chunk.js.map",
+    "static/js/2.311db0d1.chunk.js": "/animations_reactjs/static/js/2.311db0d1.chunk.js",
+    "static/js/2.311db0d1.chunk.js.map": "/animations_reactjs/static/js/2.311db0d1.chunk.js.map",
     "index.html": "/animations_reactjs/index.html",
-    "static/css/main.1c5654fd.chunk.css.map": "/animations_reactjs/static/css/main.1c5654fd.chunk.css.map",
-    "static/js/2.352dd175.chunk.js.LICENSE.txt": "/animations_reactjs/static/js/2.352dd175.chunk.js.LICENSE.txt"
+    "static/css/main.a0e5985d.chunk.css.map": "/animations_reactjs/static/css/main.a0e5985d.chunk.css.map",
+    "static/js/2.311db0d1.chunk.js.LICENSE.txt": "/animations_reactjs/static/js/2.311db0d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df104120.js",
-    "static/js/2.352dd175.chunk.js",
-    "static/css/main.1c5654fd.chunk.css",
-    "static/js/main.4999778c.chunk.js"
+    "static/js/2.311db0d1.chunk.js",
+    "static/css/main.a0e5985d.chunk.css",
+    "static/js/main.ac2eefa5.chunk.js"
   ]
 }
